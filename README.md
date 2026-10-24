@@ -87,13 +87,13 @@ weather-analysis-ds/
 
 <div align="center">
   <img src="screenshots/anomalies.png" alt="Anomalies flagged by Isolation Forest" width="80%"/>
-  <p><em>Anomalies flagged by Isolation Forest</em></p>
+  <p>Anomalies flagged by Isolation Forest</p>
 
   <img src="screenshots/forecast_comparison.png" alt="Forecast comparison — ARIMA vs Prophet vs Ensemble" width="80%"/>
-  <p><em>Forecast comparison — ARIMA vs Prophet vs Ensemble</em></p>
+  <p>Forecast comparison — ARIMA vs Prophet vs Ensemble</p>
 
   <img src="screenshots/global_map.png" alt="Global average temperature map" width="80%"/>
-  <p><em>Global average temperature map</em></p>
+  <p>Global average temperature map</p>
 </div>
 
 ### Forecasting Model Comparison (30-Day Forecast)
