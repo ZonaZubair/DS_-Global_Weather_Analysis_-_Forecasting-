@@ -83,6 +83,12 @@ weather-analysis-ds/
 
 ## Key Results
 
+## Screenshots
+
+![Anomalies flagged by Isolation Forest](screenshots/anomalies.png)
+![Forecast comparison](screenshots/forecast_comparison.png)
+![Global temperature map](screenshots/global_map.png)
+
 ### Forecasting Model Comparison (30-Day Forecast)
 
 | Model | MAE (°C) | RMSE (°C) |
