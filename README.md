@@ -85,9 +85,16 @@ weather-analysis-ds/
 
 ## Screenshots
 
-![Anomalies flagged by Isolation Forest](screenshots/anomalies.png)
-![Forecast comparison](screenshots/forecast_comparison.png)
-![Global temperature map](screenshots/global_map.png)
+<div align="center">
+  <img src="screenshots/anomalies.png" alt="Anomalies flagged by Isolation Forest" width="80%"/>
+  <p><em>Anomalies flagged by Isolation Forest</em></p>
+
+  <img src="screenshots/forecast_comparison.png" alt="Forecast comparison — ARIMA vs Prophet vs Ensemble" width="80%"/>
+  <p><em>Forecast comparison — ARIMA vs Prophet vs Ensemble</em></p>
+
+  <img src="screenshots/global_map.png" alt="Global average temperature map" width="80%"/>
+  <p><em>Global average temperature map</em></p>
+</div>
 
 ### Forecasting Model Comparison (30-Day Forecast)
 
