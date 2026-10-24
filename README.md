@@ -41,7 +41,7 @@ The notebook covers the full data science workflow, from raw data cleaning to ad
 ```
 weather-analysis-ds/
 │
-├── weather_analysis.ipynb        # Main Colab notebook (full pipeline)
+├── DS (Global Weather Analysis & Forecasting).ipynb        # Main Colab notebook (full pipeline)
 └── README.md                     # This file
 ```
 
@@ -51,7 +51,6 @@ weather-analysis-ds/
 
 **Name:** Global Weather Repository  
 **Source:** [Kaggle — nelgiriyewithana/global-weather-repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)  
-**Key features:** temperature, humidity, wind, pressure, precipitation, air quality, lat/lon
 
 > Dataset not included in this repo due to size. Download from Kaggle link above.
 
