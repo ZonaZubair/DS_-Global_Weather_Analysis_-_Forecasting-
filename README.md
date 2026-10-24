@@ -1,16 +1,16 @@
-# 🌍 Global Weather Analysis & Forecasting
+# Global Weather Analysis & Forecasting
 ### PMA-AI Bootcamp Cohort 9 Technical Assessment: (Data Science Track)
 **Built by:** Zona Zubair
 
 ---
 
-## 📌 About PM Accelerator
+## About PM Accelerator
 
 > PM Accelerator's mission is to empower aspiring and experienced product managers through immersive, real-world training programs. We bridge the gap between theory and practice by providing mentorship, hands-on projects, and community-driven learning, helping members land top product roles and grow as leaders in tech.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project is a complete end-to-end data science pipeline built on the **Global Weather Repository** dataset from Kaggle. The dataset contains daily weather observations for cities worldwide, with 40+ features including temperature, humidity, precipitation, air quality, wind speed, and more.
 
@@ -18,7 +18,7 @@ The notebook covers the full data science workflow, from raw data cleaning to ad
 
 ---
 
-## 🎯 What This Notebook Does
+## What This Notebook Does
 
 | Section | What it covers |
 |---|---|
@@ -36,7 +36,7 @@ The notebook covers the full data science workflow, from raw data cleaning to ad
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 weather-analysis-ds/
@@ -47,17 +47,17 @@ weather-analysis-ds/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Name:** Global Weather Repository  
 **Source:** [Kaggle — nelgiriyewithana/global-weather-repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)  
 **Key features:** temperature, humidity, wind, pressure, precipitation, air quality, lat/lon
 
-> ⚠️ Dataset not included in this repo due to size. Download from Kaggle link above.
+> Dataset not included in this repo due to size. Download from Kaggle link above.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -72,7 +72,7 @@ weather-analysis-ds/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Download `GlobalWeatherRepository.csv` from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)
 2. Upload it to Google Drive at: `My Drive/GlobalWeatherRepository.csv`
@@ -82,7 +82,7 @@ weather-analysis-ds/
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 ### Forecasting Model Comparison (30-Day Forecast)
 
@@ -90,7 +90,7 @@ weather-analysis-ds/
 |---|---|---|
 | ARIMA(2,1,2) | see notebook | see notebook |
 | Prophet | see notebook | see notebook |
-| **Weighted Ensemble** | **🏆 Best** | **🏆 Best** |
+| **Weighted Ensemble** | ** Best** | ** Best** |
 
 ### Key Findings
 - ~3% of readings flagged as anomalies (extreme events / sensor errors)
@@ -100,7 +100,7 @@ weather-analysis-ds/
 
 ---
 
-## 🧠 Why These Modeling Choices?
+## Why These Modeling Choices?
 
 **Isolation Forest:** handles multi-dimensional weather data without assuming a distribution. Better than simple z-score thresholds.
 
